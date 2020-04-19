@@ -1,0 +1,85 @@
+/* BAN 1 */
+
+#ban2{
+  background-image: url(image/fond2.png);
+  padding-top: 35px;
+  padding-bottom: 35px;
+}
+
+#ban2 h1{
+  text-align: center;
+  font-size: 30px;
+  color: white;
+  font-family: 'Noteworthy Light';
+
+}
+
+
+/* MEILLEUR RECETTES */
+
+#corps1 article p{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
+  text-transform: center;
+  text-justify: auto;
+  padding-top: 90px;
+}
+
+#corps1 article .btn{
+  background-color: #fff;
+  border: 1px solid #d24c2b;
+  margin-left: 200px;
+
+}
+
+#corps1 article .btn:hover{
+  color: blue;
+  background-color: #fff;
+  border: 1px solid #d24c2b;
+  margin-left: 200px;
+}
+
+#trait_dessus {
+  border-top: 1px solid #000;
+  width : 300px;
+  margin-left: 100px;
+  margin-top: -20px;
+
+}
+
+#fig1 .btn{
+  border: 1px solid transparent;
+  border-radius: 10px;
+  background: rgba(221, 221, 221, 0.7);
+  margin-left: 130px;
+  margin-top: -250px;
+  text-transform: uppercase;
+  font-size: 20px;
+  height: 60px;
+  width: 200px;
+}
+
+
+/* MASQUE */
+
+#masque article h1{
+  margin-left: 160px;
+}
+
+#masque{
+  padding-top: 20px;
+}
+
+/* PEINTURE */
+
+#peinture{
+  padding-top: 20px;
+}
+
+
+
+#corps1{
+  padding-top: 70px;
+  padding-bottom: 70px;
+
+}
